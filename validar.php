@@ -10,7 +10,7 @@ if($dado->num_rows > 0){
     $_SESSION["usuario"] = $usuario;
     header("location:index.php");
 }else{
-    header("location:index.php?msg=invalido");
+    header("location:login.php?msg=invalido");
 }
 
 ?>

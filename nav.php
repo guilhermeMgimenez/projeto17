@@ -20,7 +20,7 @@
           <a class="nav-link active" aria-current="page" href="#">Sobre</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="login.php">Login</a>
+          <a class="nav-link" href="criarUsuario.php">criar novo usuario</a>
         </li>
         
       </ul>
